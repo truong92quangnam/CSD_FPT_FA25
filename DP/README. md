@@ -1,1 +1,5 @@
-Dynamic Programming (DP) hay còn được gọi là Quy hoạch động.
+Dynamic Programming (DP) hay còn được gọi là Quy hoạch động là một dạng kỹ thuật để rút gọn các tiến trình thừa trong các bài toán có thể dùng với recursion 
+bằng cách dùng mảng để giải quyết các vấn đề của bài toán. Nói thì đơn giản nhưng để hiểu được DP thì cũng là một quá trình gian khổ.
+
+Mình đã không thể nạp DP vào người mình khi mình còn học cấp 3, nhưng khi lên đại học thì bỗng dưng có nhiều công cụ và mình có được tiếng anh nên mình cũng đã
+hiểu được phần nào về DP để làm nội dung cho các bạn xem và tham khảo.
